@@ -1,0 +1,17 @@
+{
+  "name": "insta-cache",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Vitaly Gusev",
+  "dependencies": {
+    "axios-https-proxy-fix": "^0.17.1",
+    "body-parser": "^1.18.2",
+    "express": "^4.16.1",
+    "lodash": "^4.17.4",
+    "redis": "^2.8.0"
+  }
+}
